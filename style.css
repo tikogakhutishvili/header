@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: linear-gradient(300.92deg, #2DAE77 45.43%, rgba(45, 174, 119, 0.504984) 95%, rgba(45, 174, 119, 0.317366) 123.14%, rgba(45, 174, 119, 0) 124.37%);
+    width: 1920px;
+    height: 800px; 
+    padding-top: 60px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.name {
+    display: flex;
+    flex-direction: row;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+
+}
+.Kets_lifestyle {
+    width: 145px;
+    height: 29px;
+    width: 145px;
+    font-size: 24px;
+    line-height: 29px;
+
+}
+.quote {
+    width: 127px;
+    height: 17px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.p_name {
+    margin-left: 40.16px;
+}
+a {
+    text-decoration: none;
+}
+.main_header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.center > a {
+    color: #0E0D0D;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    margin: 40px;
+}
+.icons > a {
+    margin: 24.82px;
+}
+.shopping_cart {
+    height: 51.66926956176758px;
+    width: 37.49048614501953px;
+}
+.user {
+    height: 39.58333206176758px;
+    width: 31.25px;
+
+}
+ h1 {
+    width: 462px;
+    height: 58px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 58px;
+    margin-left: 140px;
+    
+ }
+.bottom_header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+
+}
+.button1 {
+    width: 219px;
+    height: 53px;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    margin-right: 140px;
+    border-radius: 10px;
+}
+.mtavari {
+    font-family: 'FiraGO';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    color: #0D0D0D;
+}
